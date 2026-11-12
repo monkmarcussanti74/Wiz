@@ -216,4 +216,4 @@ WiZ is offered as a **complete free version** with all features and updates incl
 Unlock the full potential of your file management with WiZ — download now and experience the difference!
 
 ---
-**Last updated:** 2026-11-11 23:24:28 UTC
+**Last updated:** 2026-11-12 06:04:24 UTC
